@@ -1,0 +1,8 @@
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\bin\Debug\Tugassssss.exe.config
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\bin\Debug\Tugassssss.exe
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\bin\Debug\Tugassssss.pdb
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\obj\Debug\Tugassssss.csprojResolveAssemblyReference.cache
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\obj\Debug\Tugassssss.MainForm.resources
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\obj\Debug\Tugassssss.csproj.GenerateResource.Cache
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\obj\Debug\Tugassssss.exe
+C:\Users\Yenyin\Documents\SharpDevelop Projects\Tugassssss\Tugassssss\obj\Debug\Tugassssss.pdb
